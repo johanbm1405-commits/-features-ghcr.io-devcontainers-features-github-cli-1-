@@ -17,7 +17,7 @@ This course has been deprecated. Please visit the [Getting Started with GitHub C
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
 
-</header>
+</header> 
 
 <!--
   <<< Author notes: Course start >>>
